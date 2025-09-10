@@ -4,9 +4,9 @@
     "config:base"
   ],
   "flux": {
-    "fileMatch": ["\\.yml$"]
+    "fileMatch": ["\\.yaml$"]
   },
   "kubernetes": {
-    "fileMatch": ["\\.yml$"]
+    "fileMatch": ["\\.yaml$"]
   }
 }
